@@ -1,0 +1,5 @@
+StudentID: 
+
+Clock period: (ns)
+
+Area :  (um^2)
